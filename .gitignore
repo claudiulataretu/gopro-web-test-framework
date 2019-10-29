@@ -105,5 +105,4 @@ venv.bak/
 
 # specific project ignores
 .vscode
-Drivers/*.exe
 Results/
